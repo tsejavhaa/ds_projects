@@ -19,3 +19,7 @@ build/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Specific file
+test.ft.txt
+train.ft.txt
