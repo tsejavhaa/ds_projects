@@ -23,3 +23,4 @@ build/
 # Specific file
 test.ft.txt
 train.ft.txt
+creditcard.csv
