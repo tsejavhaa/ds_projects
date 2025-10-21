@@ -24,3 +24,7 @@ build/
 test.ft.txt
 train.ft.txt
 creditcard.csv
+kaggle.json
+Fake.csv
+True.csv
+WA_Fn-UseC_-Telco-Customer-Churn.csv
