@@ -20,6 +20,10 @@ build/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Dataset folders
+**/data/FashionMNIST/raw/
+
+
 # Specific file
 test.ft.txt
 train.ft.txt
@@ -28,3 +32,8 @@ kaggle.json
 Fake.csv
 True.csv
 WA_Fn-UseC_-Telco-Customer-Churn.csv
+fashion_cnn_resnet18.pth
+
+# OS
+.DS_Store
+Thumbs.db

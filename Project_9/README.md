@@ -24,3 +24,4 @@ Build a machine learning model to detect fake news articles based on text conten
 
 ## 🧩 Technologies
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Joblib
+
