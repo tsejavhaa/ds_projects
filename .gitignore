@@ -16,6 +16,7 @@ build/
 .vscode/
 *.swp
 *.swo
+*.safetensors
 
 # Jupyter Notebook
 .ipynb_checkpoints
